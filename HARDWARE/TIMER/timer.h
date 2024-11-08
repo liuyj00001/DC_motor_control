@@ -21,6 +21,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 extern uint16_t DIR; // ·½Ïò
 
-void TIM9_Encoder_Init(void);
+void TIM8_Encoder_Init(void);
 void TIM3_Init(void);
 #endif

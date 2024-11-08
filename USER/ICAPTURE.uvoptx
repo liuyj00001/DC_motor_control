@@ -157,85 +157,133 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>21</LineNumber>
-          <EnabledFlag>1</EnabledFlag>
-          <Address>134218310</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\瀹為獙10 杈撳叆鎹曡幏瀹為獙\USER\main.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\ICAPTURE\main.c\21</Expression>
-        </Bp>
-        <Bp>
-          <Number>1</Number>
-          <Type>0</Type>
           <LineNumber>22</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134218314</Address>
+          <Address>134218316</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\瀹為獙10 杈撳叆鎹曡幏瀹為獙\USER\main.c</Filename>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\USER\main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\ICAPTURE\main.c\22</Expression>
         </Bp>
         <Bp>
-          <Number>2</Number>
+          <Number>1</Number>
           <Type>0</Type>
           <LineNumber>25</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134218320</Address>
+          <Address>134218318</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\瀹為獙10 杈撳叆鎹曡幏瀹為獙\USER\main.c</Filename>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\USER\main.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\ICAPTURE\main.c\25</Expression>
         </Bp>
         <Bp>
-          <Number>3</Number>
+          <Number>2</Number>
           <Type>0</Type>
           <LineNumber>27</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134218952</Address>
+          <Address>134218940</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\瀹為獙10 杈撳叆鎹曡幏瀹為獙\HARDWARE\TIMER\timer.c</Filename>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\HARDWARE\TIMER\timer.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\ICAPTURE\../HARDWARE/TIMER/timer.c\27</Expression>
         </Bp>
         <Bp>
-          <Number>4</Number>
+          <Number>3</Number>
           <Type>0</Type>
           <LineNumber>38</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134219004</Address>
+          <Address>134218992</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
           <SizeOfObject>0</SizeOfObject>
           <BreakByAccess>0</BreakByAccess>
           <BreakIfRCount>1</BreakIfRCount>
-          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\瀹為獙10 杈撳叆鎹曡幏瀹為獙\HARDWARE\TIMER\timer.c</Filename>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\HARDWARE\TIMER\timer.c</Filename>
           <ExecCommand></ExecCommand>
           <Expression>\\ICAPTURE\../HARDWARE/TIMER/timer.c\38</Expression>
         </Bp>
         <Bp>
+          <Number>4</Number>
+          <Type>0</Type>
+          <LineNumber>100</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134219380</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\HARDWARE\TIMER\timer.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\ICAPTURE\../HARDWARE/TIMER/timer.c\100</Expression>
+        </Bp>
+        <Bp>
           <Number>5</Number>
+          <Type>0</Type>
+          <LineNumber>89</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134219310</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\HARDWARE\TIMER\timer.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\ICAPTURE\../HARDWARE/TIMER/timer.c\89</Expression>
+        </Bp>
+        <Bp>
+          <Number>6</Number>
+          <Type>0</Type>
+          <LineNumber>92</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134219324</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename>Y:\STM32_projects\class\缁煎悎瀹為獙\DC_motor_control\HARDWARE\TIMER\timer.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\ICAPTURE\../HARDWARE/TIMER/timer.c\92</Expression>
+        </Bp>
+        <Bp>
+          <Number>7</Number>
+          <Type>0</Type>
+          <LineNumber>21</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>0</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>0</BreakIfRCount>
+          <Filename>.\main.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression></Expression>
+        </Bp>
+        <Bp>
+          <Number>8</Number>
           <Type>0</Type>
           <LineNumber>28</LineNumber>
           <EnabledFlag>1</EnabledFlag>

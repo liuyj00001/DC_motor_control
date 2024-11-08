@@ -3,20 +3,20 @@
         {
             "name": "ICAPTURE",
             "includePath": [
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\CORE",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\SYSTEM\\delay",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\SYSTEM\\sys",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\SYSTEM\\usart",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\USER",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\HARDWARE\\LED",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\HARDWARE\\TIMER",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\FWLIB\\inc",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\CORE",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\SYSTEM\\delay",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\SYSTEM\\sys",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\SYSTEM\\usart",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\USER",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\HARDWARE\\LED",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\HARDWARE\\TIMER",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\FWLIB\\inc",
                 "D:\\Keil\\ARM\\ARMCC\\include",
                 "D:\\Keil\\ARM\\ARMCC\\include\\arm_linux",
                 "D:\\Keil\\ARM\\ARMCC\\include\\arm_linux_compat",
                 "D:\\Keil\\ARM\\ARMCC\\include\\rw",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验\\FWLIB\\src",
-                "y:\\STM32_projects\\class\\综合实验\\实验10 输入捕获实验"
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\FWLIB\\src",
+                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control"
             ],
             "defines": [
                 "STM32F40_41xxx",

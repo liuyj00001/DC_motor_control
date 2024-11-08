@@ -17,15 +17,12 @@ int main(void)
 	NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2); // 设置系统中断优先级分组2
 	delay_init(168);								// 初始化延时函数
 	uart_init(115200);								// 初始化串口波特率为115200
-	printf("	IN     WHILE     LOOP     \r\n");
-	TIM9_Encoder_Init(); // 初始化编码器
-	TIM3_Init();
-	printf("	IN     WHILE     LOOP     \r\n");
-	printf("	IN     WHILE     LOOP     \r\n");
-	printf("	IN     WHILE     LOOP     \r\n");
+	TIM8_Encoder_Init(); // 初始化编码器
+	//TIM3_Init();
 	while (1)
 	{
-		printf("	IN     WHILE     LOOP     \r\n");
+		printf("TIM3_IRQHandler %d \r\n", TIM_GetCounter(TIM8));
+		//printf("TIM3_IRQHandler\r\n");
 		delay_ms(1000);
 	}
 }
