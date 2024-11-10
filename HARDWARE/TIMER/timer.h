@@ -20,7 +20,9 @@
 // 新增TIM5_CH1_Cap_Init函数,用于输入捕获
 //////////////////////////////////////////////////////////////////////////////////
 extern uint16_t DIR; // 方向
-
+extern float Encoder_Speed;
+extern float voltage ;
 void TIM8_Encoder_Init(void);
 void TIM3_Init(void);
+void TIM4_Init(void);
 #endif

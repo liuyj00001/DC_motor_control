@@ -3,7 +3,7 @@
 ..\obj\timer.o: ..\SYSTEM\sys\sys.h
 ..\obj\timer.o: ..\USER\stm32f4xx.h
 ..\obj\timer.o: ..\CORE\core_cm4.h
-..\obj\timer.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\timer.o: ..\CORE\core_cmInstr.h
 ..\obj\timer.o: ..\CORE\core_cmFunc.h
 ..\obj\timer.o: ..\CORE\core_cm4_simd.h
@@ -38,4 +38,7 @@
 ..\obj\timer.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\timer.o: ..\HARDWARE\LED\led.h
 ..\obj\timer.o: ..\SYSTEM\usart\usart.h
-..\obj\timer.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\timer.o: ..\HARDWARE\ADC\adc.h
+..\obj\timer.o: ..\HARDWARE\LCD\lcd.h
+..\obj\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

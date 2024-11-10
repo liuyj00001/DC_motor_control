@@ -3,20 +3,18 @@
         {
             "name": "ICAPTURE",
             "includePath": [
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\CORE",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\SYSTEM\\delay",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\SYSTEM\\sys",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\SYSTEM\\usart",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\USER",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\HARDWARE\\LED",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\HARDWARE\\TIMER",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\FWLIB\\inc",
-                "D:\\Keil\\ARM\\ARMCC\\include",
-                "D:\\Keil\\ARM\\ARMCC\\include\\arm_linux",
-                "D:\\Keil\\ARM\\ARMCC\\include\\arm_linux_compat",
-                "D:\\Keil\\ARM\\ARMCC\\include\\rw",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control\\FWLIB\\src",
-                "y:\\STM32_projects\\class\\综合实验\\DC_motor_control"
+                "d:\\lyj\\DC_motor_control\\CORE",
+                "d:\\lyj\\DC_motor_control\\SYSTEM\\delay",
+                "d:\\lyj\\DC_motor_control\\SYSTEM\\sys",
+                "d:\\lyj\\DC_motor_control\\SYSTEM\\usart",
+                "d:\\lyj\\DC_motor_control\\USER",
+                "d:\\lyj\\DC_motor_control\\HARDWARE\\LED",
+                "d:\\lyj\\DC_motor_control\\HARDWARE\\TIMER",
+                "d:\\lyj\\DC_motor_control\\FWLIB\\inc",
+                "C:\\Keil_v5\\ARM\\ARMCC\\include",
+                "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
+                "d:\\lyj\\DC_motor_control\\FWLIB\\src",
+                "d:\\lyj\\DC_motor_control"
             ],
             "defines": [
                 "STM32F40_41xxx",
